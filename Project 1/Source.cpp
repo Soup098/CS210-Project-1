@@ -42,6 +42,8 @@ int main() {
 	* and outputs an error message if the users input is out of range.
 	* User has to redo input if outside of range.
 	*/
+	cout << "CLOCK"
+
 	while (true) {
 		cout << "Please enter the time: " << endl;
 		cout << "Hours: ";
